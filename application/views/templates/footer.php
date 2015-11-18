@@ -2,7 +2,7 @@
 
     <footer class="footer">
       <div class="container">
-        <p class="text-muted">&copy; CAS Developers 2015</p>
+        <p class="text-muted">&copy; CAS Developers 2015 - Barranquilla, Colombia</p>
       </div>
     </footer>
 
